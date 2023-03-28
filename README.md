@@ -2,9 +2,9 @@
 data visualization using seaborn
 
 1 Set up the notebook :
-  import pandas as pd
-  pd.plotting.register_matplotlib_converters()
-  import matplotlib.pyplot as plt
-  %matplotlib inline
-  import seaborn as sns
+  import pandas as pd \n
+  pd.plotting.register_matplotlib_converters() \n
+  import matplotlib.pyplot as plt \n
+  %matplotlib inline \n
+  import seaborn as sns \n
 
