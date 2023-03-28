@@ -7,5 +7,9 @@ data visualization using seaborn
  > import matplotlib.pyplot as plt<br>
  > %matplotlib inline<br>
  > import seaborn as sns<br>      
-     
+
+2 load the data
+ >data = pd.read_csv(fifa_filepath, index_col="Date", parse_dates=True)
+ >
+ >
 
